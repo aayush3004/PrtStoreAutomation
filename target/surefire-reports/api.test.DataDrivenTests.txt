@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: api.test.DataDrivenTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.138 s <<< FAILURE! - in api.test.DataDrivenTests
+testPostUser(api.test.DataDrivenTests)  Time elapsed: 1.845 s  <<< FAILURE!
+java.lang.RuntimeException: java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
